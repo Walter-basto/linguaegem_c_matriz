@@ -1,2 +1,2 @@
-# linguaegem_c_matriz
+# linguagem_c_matriz
 projeto Estácio
